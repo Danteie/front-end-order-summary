@@ -17,6 +17,7 @@ body{
     width: 25rem;
     background-color: white;
     border-radius: 15px; 
+    box-shadow: 0px 15px 15px 0px hsl(228, 73%, 85%);
 }
 
 h1{
@@ -78,7 +79,7 @@ button{
     border: none;
     background-color: hsl(245, 75%, 52%);
     color: white;
-    box-shadow: 0px 15px 10px 10px hsl(225, 100%, 98%);
+    box-shadow: 0px 15px 20px 5px hsl(229, 100%, 95%);
     cursor: pointer;
     font-weight: 900;
 }
