@@ -83,6 +83,7 @@ button{
     box-shadow: 0px 15px 20px 5px hsl(229, 100%, 95%);
     cursor: pointer;
     font-weight: 900;
+    transition: 0.5s;
 }
 
 button:hover{
